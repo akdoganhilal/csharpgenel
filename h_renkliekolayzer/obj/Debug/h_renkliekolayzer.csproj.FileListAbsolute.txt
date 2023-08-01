@@ -1,0 +1,11 @@
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\bin\Debug\h_renkliekolayzer.exe.config
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\bin\Debug\h_renkliekolayzer.exe
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\bin\Debug\h_renkliekolayzer.pdb
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\obj\Debug\h_renkliekolayzer.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\obj\Debug\h_renkliekolayzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\obj\Debug\h_renkliekolayzer.Form1.resources
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\obj\Debug\h_renkliekolayzer.Properties.Resources.resources
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\obj\Debug\h_renkliekolayzer.csproj.GenerateResource.cache
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\obj\Debug\h_renkliekolayzer.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\obj\Debug\h_renkliekolayzer.exe
+C:\Users\hilal\Desktop\C#\HilalRenkliEkolayzer\h_renkliekolayzer\obj\Debug\h_renkliekolayzer.pdb
