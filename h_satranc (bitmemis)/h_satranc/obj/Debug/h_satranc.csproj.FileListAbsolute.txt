@@ -1,0 +1,13 @@
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\bin\Debug\h_satranc.exe.config
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\bin\Debug\h_satranc.exe
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\bin\Debug\h_satranc.pdb
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.csproj.SuggestedBindingRedirects.cache
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.Form1.resources
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.Properties.Resources.resources
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.csproj.GenerateResource.cache
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.csproj.CoreCompileInputs.cache
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.exe
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.pdb
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.Form2.resources
+C:\Users\hilal\Desktop\C#\HilalÇalışmalar\h_satranc\obj\Debug\h_satranc.Form3.resources
